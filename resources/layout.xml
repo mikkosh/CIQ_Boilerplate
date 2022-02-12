@@ -1,0 +1,8 @@
+<resources>
+<layout id="SplashLayout">
+        <bitmap id="splash_screen" x="0" y="0" filename="drawables/splash.png"/>
+</layout>
+<layout id="StartLayout">
+	<label id="app_name" text="@Strings.AppName" x="50%" y="50%" font="Gfx.FONT_XTINY" color="Gfx.COLOR_LT_GRAY" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+</layout>
+</resources>
